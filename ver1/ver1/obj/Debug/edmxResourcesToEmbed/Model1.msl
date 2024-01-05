@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Test2ModelStoreContainer" CdmEntityContainer="Test2Entities5">
+    <EntitySetMapping Name="QLDTs">
+      <EntityTypeMapping TypeName="Test2Model.QLDT">
+        <MappingFragment StoreEntitySet="QLDT">
+          <ScalarProperty Name="MaDon" ColumnName="MaDon" />
+          <ScalarProperty Name="TenPhim" ColumnName="TenPhim" />
+          <ScalarProperty Name="QuocGia" ColumnName="QuocGia" />
+          <ScalarProperty Name="TheLoai" ColumnName="TheLoai" />
+          <ScalarProperty Name="NgayCongChieu" ColumnName="NgayCongChieu" />
+          <ScalarProperty Name="DoTuoi" ColumnName="DoTuoi" />
+          <ScalarProperty Name="DinhDang" ColumnName="DinhDang" />
+          <ScalarProperty Name="PTGD" ColumnName="PTGD" />
+          <ScalarProperty Name="PTSCDB" ColumnName="PTSCDB" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

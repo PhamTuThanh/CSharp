@@ -1,0 +1,15 @@
+C:\Users\thanh\source\repos\ver1\ver1\bin\Debug\ver1.exe.config
+C:\Users\thanh\source\repos\ver1\ver1\bin\Debug\ver1.exe
+C:\Users\thanh\source\repos\ver1\ver1\bin\Debug\ver1.pdb
+C:\Users\thanh\source\repos\ver1\ver1\obj\Debug\ver1.csproj.AssemblyReference.cache
+C:\Users\thanh\source\repos\ver1\ver1\obj\Debug\ver1.Form1.resources
+C:\Users\thanh\source\repos\ver1\ver1\obj\Debug\ver1.Properties.Resources.resources
+C:\Users\thanh\source\repos\ver1\ver1\obj\Debug\ver1.csproj.GenerateResource.cache
+C:\Users\thanh\source\repos\ver1\ver1\obj\Debug\ver1.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\ver1\ver1\obj\Debug\ver1.exe
+C:\Users\thanh\source\repos\ver1\ver1\obj\Debug\ver1.pdb
+C:\Users\thanh\source\repos\ver1\ver1\bin\Debug\EntityFramework.dll
+C:\Users\thanh\source\repos\ver1\ver1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thanh\source\repos\ver1\ver1\bin\Debug\EntityFramework.xml
+C:\Users\thanh\source\repos\ver1\ver1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thanh\source\repos\ver1\ver1\obj\Debug\ver1.csproj.CopyComplete
